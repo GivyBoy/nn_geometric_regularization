@@ -1,24 +1,3 @@
-Here’s a simplified folder structure with all files in a single directory and an updated README to match.
-
----
-
-### Folder Structure
-
-```
-project/
-├── main.py                        # Entry point for training and evaluation
-├── cnn_models.py                  # Contains all models (ResidualBlock, BaseCNN, GeometricCNN)
-├── geometric_regularization.py    # Geometric Regularization module
-├── utils.py                       # Training utilities, and visualization tools
-├── requirements.txt               # Required Python packages
-├── README.md                      # Project documentation
-└── diff_geo.pdf                   # Theoretical foundations document
-```
-
----
-
-### Updated README
-
 #### **Geometric Regularization in CNNs**
 
 ---
@@ -43,7 +22,7 @@ Key Features:
 | `geometric_regularization.py` | Implements geometric regularization functionality.|
 | `utils.py`                 | Data loaders, trainers, and visualization utilities.|
 | `requirements.txt`         | Python dependencies for the project.               |
-
+| `mth551_final_project.pdf`         | Research Paper               |
 ---
 
 #### **Theoretical Background**
