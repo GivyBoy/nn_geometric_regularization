@@ -1,0 +1,4 @@
+torch # PyTorch version
+torchvision  # For CIFAR-10 dataset and transforms
+numpy  # For numerical operations
+matplotlib  # For plotting metrics and activation maps
